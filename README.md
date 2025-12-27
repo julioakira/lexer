@@ -1,6 +1,6 @@
-# go-lexer
+# lexer
 
-## Lexer written in Golang for study purposes
+## Lexers written in some languages for study purposes
 
 ## Key Concepts
 
